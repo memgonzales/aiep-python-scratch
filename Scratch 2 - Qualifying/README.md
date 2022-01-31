@@ -37,4 +37,4 @@ The material serves to introduce divide-and-conquer algorithms. It is divided in
 - <b>[Optional, depending on the pacing of the trainees]</b> The second part focuses on the bisection method. The construction of graphs of (mathematical) functions via the Pen Tool extension is taught to motivate the discussion.
 
 ### Session 8
-The material serves to introduce greedy algorithms. Representative problems from online judges, such as Shopaholic and Dragon of Loowater (as suggested by Halim and Halim in their <i>Competitive Programming</i> series), are also discussed.
+The material serves to introduce greedy algorithms. Representative problems from programming contests, such as Shopaholic and Dragon of Loowater (as suggested by Halim and Halim in their <i>Competitive Programming</i> series), are also discussed.
