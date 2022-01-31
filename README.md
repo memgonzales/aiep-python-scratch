@@ -1,7 +1,7 @@
 # AMSLI Informatics Enrichment Program
 This repository contains the materials that I wrote for the <b>AMSLI Informatics Enrichment Program (AIEP)</b>. Organized by the Asian MathSci League, Inc. (AMSLI) in partnership with the National Olympiad in Informatics Philippines (NOI.PH), this training program has two stages:
 - A 10-Saturday **qualifying program** where we train Filipino students to explore beyond-curriculum topics and select those who will be invited to join the send-off program
-- A 10-Saturday **send-off program** where qualified students are given addition training in preparation for representing the country in global and international informatics, computational thinking, and programming competitions. 
+- A 10-Saturday **send-off program** where qualified students are given addition training in preparation for representing the country in global and international informatics, computational thinking, and programming competitions 
 
 These contests include:
 
