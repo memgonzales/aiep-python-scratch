@@ -24,7 +24,7 @@ Session | Topic
 <sup>2</sup> The author of the materials for Session 3 also added a discussion of the decimal and binary number systems.
 
 ## Contributed Materials
-I was given the opportunity to write the materials for the following sessions:
+I was given the opportunity to prepare the materials for the following sessions:
 
 ### Session 4
 The material is divided into two parts:
