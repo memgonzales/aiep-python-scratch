@@ -1,4 +1,4 @@
-# AIEP Scratch 2 - Qualifying Program
+# AIEP Scratch 2 Qualifying Program
 The AIEP Scratch 2 qualifying program was launched in 2021 with the objective of **introducing competitive programming to grade school students via Scratch 3**, a block-based programming language developed by the Massachusetts Institute of Technology (MIT) Media Lab's Lifelong Kindergarten Group.
 
 ## Curriculum Design
