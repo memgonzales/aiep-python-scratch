@@ -27,4 +27,4 @@ This session serves to introduce some common data structures and abstract data t
 This session serves to introduce some useful algorithm design paradigms: divide and conquer, greedy algorithm, and dynamic programming. Representatives examples, such as mergesort, Prim's algorithm for minimum spanning trees, and getting the longest common subsequence, are also discussed.
 
 ### Sessions 9 and 10
-These sessions serve to expose the trainees to an assortment of programming challenges of varying difficulty. Some of the problems in these handouts are taken from the Association for Computing Machinery - International Collegiate Programming Contest (ACM-ICPC).
+These sessions serve to expose the trainees to an assortment of programming challenges of varying difficulty. Some of the problems in these handouts are taken from the Association for Computing Machinery – International Collegiate Programming Contest (ACM-ICPC).
