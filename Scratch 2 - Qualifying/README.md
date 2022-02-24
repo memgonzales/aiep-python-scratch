@@ -3,7 +3,7 @@ The AIEP Scratch 2 qualifying program was launched in 2021 with the objective of
 
 ## Curriculum Design
 For AIEP Scratch 2, I designed a 10-session curriculum with the following rationale:
-- The first five sessions are dedicated to reinforcing topics that are generally considered challenging by Scratch 1 trainees (as identified in consultation with the 2020 AIEP Scratch 1 mentors). To broaden their programming toolset, two new concepts are also introduced, namely recursion and lists. 
+- The first five sessions are dedicated to reinforcing topics that are generally considered challenging by Scratch 1 trainees (as identified in consultation with fellow 2020 AIEP Scratch 1 mentors). To broaden their programming toolset, two new concepts are also introduced, namely recursion and lists. 
 - The latter half is intended to serve as a gateway to competitive programming through a discussion of selected algorithmic paradigms. 
 - The last session before the final exam aims to promote an interdisciplinary appreciation for programming by exploring how physics simulations can be done in Scratch.
 
