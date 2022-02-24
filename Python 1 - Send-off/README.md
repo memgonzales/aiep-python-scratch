@@ -3,7 +3,7 @@ The AIEP Python 1 send-off program was launched in 2021 with the objective of pr
 
 ## Curriculum Design
 For the AIEP Python 1 send-off, I designed the curriculum for the last five sessions with the following rationale:
-- Sessions 6 to 8 are intended to formally introduce the trainees to the study of data structures and algorithms.
+- Sessions 6 to 8 are intended to formally introduce the study of data structures and algorithms.
 - Sessions 9 to 10 are dedicated to hands-on coding challenges that aim to expose the trainees to actual competitive programming questions and promote an appreciation for newly learned problem-solving paradigms.
 
 Session | Topic
