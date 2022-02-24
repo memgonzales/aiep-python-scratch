@@ -1,5 +1,5 @@
 # AIEP Python 1 Send-off Program
-The AIEP Python 1 send-off program was launched in 2020 with the objective of preparing students to represent the country in global and international informatics, computational thinking, and programming competitions. The trainees were selected based on their performance in the AIEP Python 1 (Introductory Python) qualifying program.
+The AIEP Python 1 send-off program was launched in 2020 with the goal of preparing students to represent the country in global and international informatics, computational thinking, and programming competitions. The trainees were selected based on their performance in the AIEP Python 1 (Introductory Python) qualifying program.
 
 ## Curriculum Design
 For the AIEP Python 1 send-off, I designed the curriculum for the last five sessions with the following rationale:
