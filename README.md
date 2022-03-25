@@ -14,7 +14,7 @@ I have written materials and helped design the curricula for the following AIEP 
 - [**Python 1 (Introductory Python) Send-off Program**](https://github.com/memgonzales/aiep-python-scratch/tree/master/Python%201%20-%20Send-off) *launched in 2020*
 - [**Scratch 2 (Scratch for Competitive Programming) Qualifying Program**](https://github.com/memgonzales/aiep-python-scratch/tree/master/Scratch%202%20-%20Qualifying) *launched in 2021*
 - **Scratch 2 (Scratch for Competitive Programming) Send-off Program** *launched in 2022*
-- **Python 2 (Python for Competitive Programming) Send-off Program** *launched in 2022*
+- [**Python 2 (Python for Competitive Programming) Send-off Program**](https://github.com/memgonzales/aiep-python-scratch/tree/master/Python%202%20-%20Send-off) *launched in 2022*
 
 ## About AMSLI
 Established in 2017, the Asian MathSci League, Inc. (AMSLI) is a nonstock, nonprofit organization of mathematics, science, and informatics mentors that aims to foster global competitiveness among Filipino students and teachers by organizing seminar-workshops and training programs and by sending contingents to international correspondences and competitions. Awardees are recognized by the Department of Science and Technology through its Science Education Institute (DOST-SEI).
