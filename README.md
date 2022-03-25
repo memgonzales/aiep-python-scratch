@@ -22,6 +22,6 @@ Established in 2017, the Asian MathSci League, Inc. (AMSLI) is a nonstock, nonpr
 More details can be found on its official website: http://amsliphil.blogspot.com/
 
 ## Author
-- Mark Edward M. Gonzales <br/>
+- <b>Mark Edward M. Gonzales</b> <br/>
   mark_gonzales@dlsu.edu.ph <br/>
   gonzales.markedward@gmail.com
