@@ -13,7 +13,7 @@ These contests include:
 I have written materials and helped design the curricula for the following AIEP training programs:
 - [**Python 1 (Introductory Python) Send-off Program**](https://github.com/memgonzales/aiep-python-scratch/tree/master/Python%201%20-%20Send-off) *launched in 2020*
 - [**Scratch 2 (Scratch for Competitive Programming) Qualifying Program**](https://github.com/memgonzales/aiep-python-scratch/tree/master/Scratch%202%20-%20Qualifying) *launched in 2021*
-- **Scratch 2 (Scratch for Competitive Programming) Send-off Program** *launched in 2022*
+- [**Scratch 2 (Scratch for Competitive Programming) Send-off Program**](https://github.com/memgonzales/aiep-python-scratch/tree/master/Scratch%202%20-%20Send-off) *launched in 2022*
 - [**Python 2 (Python for Competitive Programming) Send-off Program**](https://github.com/memgonzales/aiep-python-scratch/tree/master/Python%202%20-%20Send-off) *launched in 2022*
 
 ## About AMSLI
