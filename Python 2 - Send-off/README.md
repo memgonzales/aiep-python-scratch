@@ -3,7 +3,7 @@ The AIEP Python 2 send-off program was launched in 2022 with the goal of prepari
 
 ## Curriculum Design
 For the AIEP Python 2 send-off, I designed the curriculum for the last five sessions with the following rationale:
-- Sessions 6 to 7 are dedicated to deepening the trainees' understanding of two algorithmic paradigms that were preliminarily introduced during the qualifying program: binary search and dynamic programming. Bisection method (an extension of binary search to continuous search spaces) is also discussed.
+- Sessions 6 to 7 are dedicated to deepening the trainees' understanding of two algorithmic paradigms that were preliminarily introduced during the qualifying program: binary search and dynamic programming. The bisection method (an extension of binary search to continuous search spaces) is also discussed.
 - Sessions 8 to 9 introduce two new efficient data structures: priority queues and disjoint-set data structures.
 - Session 10 aims to send the trainees off with a real-world application of informatics: unearthing patterns across items in large datasets via association rule mining.
 
@@ -11,7 +11,7 @@ Session | Topic
 -- | --
 6 | Binary Search and Bisection Method
 7 | Dynamic Programming
-8 | Priroity Queue
+8 | Priority Queue
 9 | Disjoint-Set Data Structure
 10 | Association Rule Mining
 
@@ -19,7 +19,7 @@ Session | Topic
 Each handout starts with a motivating problem and a theoretical exploration of the topic before proceeding to a walkthrough of classical and competitive programming tasks. Exercises and questions for class discussion/self-driven learning are also provided to supplement the discussion.
 
 ### Session 6
-This session serves to give a deeper discussion of binary search (including getting the upper and lower bounds). Bisection method, an extension of binary search to continuous search spaces, is also introduced. Walkthroughs are provided for the following problems: [Where is the Marble?](https://onlinejudge.org/external/104/10474.pdf), [Expanding Rods](https://open.kattis.com/problems/expandingrods), and [Careful Ascent](https://open.kattis.com/problems/carefulascent).
+This session serves to give a deeper discussion of binary search (including getting the upper and lower bounds). The bisection method, an extension of binary search to continuous search spaces, is also introduced. Walkthroughs are provided for the following problems: [Where is the Marble?](https://onlinejudge.org/external/104/10474.pdf), [Expanding Rods](https://open.kattis.com/problems/expandingrods), and [Careful Ascent](https://open.kattis.com/problems/carefulascent).
 
 ### Session 7
 This session serves to give a deeper discussion of dynamic programming (DP), with an emphasis on the top-down approach (memoization) for pedagogy. Three categories of DP problems are explored:
