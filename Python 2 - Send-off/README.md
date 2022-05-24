@@ -5,7 +5,7 @@ The AIEP Python 2 send-off program was launched in 2022 with the goal of prepari
 For the AIEP Python 2 send-off, I designed the curriculum for the last five sessions with the following rationale:
 - Sessions 6 to 7 are dedicated to deepening the trainees' understanding of two algorithmic paradigms that were preliminarily introduced during the qualifying program: binary search and dynamic programming. The bisection method (an extension of binary search to continuous search spaces) is also discussed.
 - Sessions 8 to 9 introduce two new efficient data structures: priority queues and disjoint-set data structures.
-- Session 10 aims to send the trainees off with a real-world application of informatics: unearthing patterns across items in large datasets via association rule mining.
+- Session 10 offers the trainees some insights on real-world applications of informatics, particularly related to unearthing patterns across items in large datasets via association rule mining.
 
 Session | Topic
 -- | --
