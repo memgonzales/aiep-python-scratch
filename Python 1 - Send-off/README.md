@@ -24,7 +24,7 @@ This session introduces the notion of algorithmic efficiency and asymptotic anal
 This session introduces common data structures and abstract data types: stacks, queues, trees, and graphs. Tree and graph traversal algorithms, as well as insertion and searching operations on binary search trees, are also discussed.
 
 ### Session 8
-This session introduces three algorithm design paradigms: divide and conquer, greedy algorithm, and dynamic programming. Representative examples, such as mergesort, Prim's algorithm for minimum spanning trees, and getting the longest common subsequence, are also discussed.
+This session introduces three algorithm design paradigms: divide and conquer, greedy algorithm, and dynamic programming. Representative examples, such as mergesort, Prim's algorithm for minimum spanning trees, and longest common subsequence, are also discussed.
 
 ### Sessions 9 and 10
 These sessions expose the trainees to an assortment of programming challenges of varying difficulty, including problems from the Association for Computing Machinery – International Collegiate Programming Contest (ACM-ICPC).
