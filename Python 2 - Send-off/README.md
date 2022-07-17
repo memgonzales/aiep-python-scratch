@@ -40,4 +40,4 @@ This session introduces association rule mining as a data mining technique for u
 ## Notes
 - The materials in this repository were last updated in April 2022.
 - With the July 2022 revision of the qualifying program's curriculum, Session 7 now serves as the trainees' introduction to dynamic programming.
-- In July 2022, the Python 2 program was renamed to AIEP 4.
+- In July 2022, the Python 2 program was renamed AIEP 4.
