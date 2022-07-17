@@ -19,20 +19,25 @@ Session | Topic
 Each handout starts with a motivating problem and a theoretical exploration of the topic before proceeding to a walkthrough of classical and competitive programming tasks. Exercises and questions for class discussion/self-driven learning are also provided to supplement the discussion.
 
 ### Session 6
-This session serves to give a deeper discussion of binary search (including getting the upper and lower bounds). The bisection method, an extension of binary search to continuous search spaces, is also introduced. Walkthroughs are provided for the following problems: [Where is the Marble?](https://onlinejudge.org/external/104/10474.pdf), [Expanding Rods](https://open.kattis.com/problems/expandingrods), and [Careful Ascent](https://open.kattis.com/problems/carefulascent).
+This session gives a more in-depth discussion of binary search (including getting the upper and lower bounds). The bisection method, an extension of binary search to continuous search spaces, is also introduced. Walkthroughs are provided for the following problems: [Where is the Marble?](https://onlinejudge.org/external/104/10474.pdf), [Expanding Rods](https://open.kattis.com/problems/expandingrods), and [Careful Ascent](https://open.kattis.com/problems/carefulascent).
 
 ### Session 7
-This session serves to give a deeper discussion of dynamic programming (DP), with an emphasis on the top-down approach (memoization) for pedagogy. Three categories of DP problems are explored:
+This session gives a more in-depth discussion of dynamic programming (DP), with a pedagogical emphasis on the top-down approach (memoization). Three categories of DP problems are explored:
 - _One-dimensional DP:_ [Problem 25 from the 2010 American Mathematics Competition 8](https://artofproblemsolving.com/wiki/index.php/2010_AMC_8_Problems/Problem_25)
 - _Two-dimensional DP:_ [Tetrahedron](https://codeforces.com/problemset/problem/166/E), [Problem 11 from the 2008 American Invitational Mathematics Examination I](https://artofproblemsolving.com/wiki/index.php/2008_AIME_I_Problems/Problem_11), and Levenshtein distance
 - _Knapsack-style DP:_ 0-1 knapsack problem and subset sum problem
 - _Forward vs. backward recursion:_ 0-1 knapsack problem (revisited) and [Nikola](https://open.kattis.com/problems/nikola)
 
 ### Session 8
-This session serves to introduce the priority queue as an efficient data structure for implementing greedy algorithms. Walkthroughs are provided for the following problems: getting the *k*th-highest element, Huffman coding, and [Assigning Workstations](https://open.kattis.com/problems/workstations).
+This session introduces the priority queue as an efficient data structure for implementing greedy algorithms. Walkthroughs are provided for the following problems: getting the *k*th-highest element, Huffman coding, and [Assigning Workstations](https://open.kattis.com/problems/workstations).
 
 ### Session 9
-This session serves to introduce the disjoint-set data structure as an efficient data structure for union and merge operations. Known optimization techniques, namely union by rank and path compression, are also discussed. Walkthroughs are provided for the following problems: [Virtual Friends](https://open.kattis.com/problems/virtualfriends), [Skolavslutningen](https://open.kattis.com/problems/skolavslutningen), and [Swap to Sort](https://open.kattis.com/problems/swaptosort).
+This session introduces the disjoint-set data structure as an efficient data structure for union and merge operations. Known optimization techniques, namely union by rank and path compression, are also discussed. Walkthroughs are provided for the following problems: [Virtual Friends](https://open.kattis.com/problems/virtualfriends), [Skolavslutningen](https://open.kattis.com/problems/skolavslutningen), and [Swap to Sort](https://open.kattis.com/problems/swaptosort).
 
 ### Sessions 10
-This session serves to introduce association rule mining as a data mining technique for unearthing patterns across items in large datasets. In particular, the apriori algorithm is discussed.
+This session introduces association rule mining as a data mining technique for unearthing patterns across items in large datasets. In particular, the apriori algorithm is discussed.
+
+## Notes
+- The materials in this repository were last updated in April 2022.
+- With the July 2022 revision of the qualifying program's curriculum, Session 7 now serves as the trainees' introduction to dynamic programming.
+- In July 2022, the Python 2 program was renamed to AIEP 4.
