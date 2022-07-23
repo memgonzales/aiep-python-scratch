@@ -3,7 +3,7 @@ The AIEP Python 1 send-off program was launched in 2020 with the goal of prepari
 
 ## Curriculum Design
 For the AIEP Python 1 send-off, I designed the curriculum for the last five sessions with the following rationale:
-- Sessions 6 to 8 are intended to formally introduce the study of data structures and algorithms.
+- Sessions 6 to 8 formally introduce the study of data structures and algorithms.
 - Sessions 9 to 10 are dedicated to hands-on coding challenges that aim to expose the trainees to actual competitive programming questions and promote an appreciation for newly learned problem-solving paradigms.
 
 Session | Topic
@@ -18,13 +18,17 @@ Session | Topic
 I was given the opportunity to prepare the materials for the following sessions:
 
 ### Session 6
-This session serves to introduce the notion of algorithmic efficiency and how it is expressed using the Big O notation. Some efficient algorithms (e.g., binary search and exponentiation by squaring) are presented to motivate the transition from naive solutions. Bitwise operators are also discussed.
+This session introduces the notion of algorithmic efficiency and asymptotic analysis, with an emphasis on the Big O notation). Efficient algorithms (binary search, exponentiation by squaring, and Kadane's algorithm for the maximum subarray problem) are presented to motivate the transition from naive solutions. Bitwise operators are also discussed.
 
 ### Session 7
-This session serves to introduce some common data structures and abstract data types: stacks, queues, trees (including binary search trees), and graphs. Tree and graph traversal algorithms, as well as insertion and searching operations on binary search trees, are also discussed.
+This session introduces common data structures and abstract data types: stacks, queues, trees, and graphs. Tree and graph traversal algorithms, as well as insertion and searching operations on binary search trees, are also discussed.
 
 ### Session 8
-This session serves to introduce some useful algorithm design paradigms: divide and conquer, greedy algorithm, and dynamic programming. Representatives examples, such as mergesort, Prim's algorithm for minimum spanning trees, and getting the longest common subsequence, are also discussed.
+This session introduces three algorithm design paradigms: divide and conquer, greedy algorithm, and dynamic programming. Representative examples, such as mergesort, Prim's algorithm for minimum spanning trees, and longest common subsequence, are also discussed.
 
 ### Sessions 9 and 10
-These sessions serve to expose the trainees to an assortment of programming challenges of varying difficulty. Some of the problems in these handouts are taken from the Association for Computing Machinery – International Collegiate Programming Contest (ACM-ICPC).
+These sessions expose the trainees to an assortment of programming challenges of varying difficulty, including problems from the Association for Computing Machinery – International Collegiate Programming Contest (ACM-ICPC).
+
+## Notes
+- The materials in this repository were last updated in November 2020.
+- In July 2022, the Python 1 program was renamed AIEP 3.
