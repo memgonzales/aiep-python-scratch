@@ -16,7 +16,7 @@ Session | Topic
 10 | Association Rule Mining
 
 ## Contributed Materials
-Each handout starts with a motivating problem and a theoretical exploration of the topic before proceeding to a walkthrough of classical and competitive programming tasks. Exercises and questions for class discussion/self-driven learning are also provided to supplement the discussion.
+Each handout starts with a motivating problem and a theoretical exploration of the topic before proceeding to a walkthrough of classic and competitive programming tasks. Exercises and questions for class discussion/self-driven learning are also provided to supplement the discussion.
 
 ### Session 6
 This session gives a more in-depth discussion of binary search (including getting the upper and lower bounds). The bisection method, an extension of binary search to continuous search spaces, is also introduced. Walkthroughs are provided for the following problems: [Where is the Marble?](https://onlinejudge.org/external/104/10474.pdf), [Expanding Rods](https://open.kattis.com/problems/expandingrods), and [Careful Ascent](https://open.kattis.com/problems/carefulascent).
